@@ -22,11 +22,7 @@ One "Login with Google" and your agent can authenticate with any API.
 
 ---
 
-### 📊
-
-<a href="https://github.com/atpaawej">
-  <img height=180 align="center" src="https://github-readme-streak-stats-eight.vercel.app/api?user=atpaawej&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=atpaawej&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
 ---
 
