@@ -24,16 +24,9 @@ One "Login with Google" and your agent can authenticate with any API.
 
 ### 📊
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atpaawej&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=00cc33">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atpaawej&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=00cc33">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atpaawej&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00cc33">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atpaawej&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00cc33">
-  </picture>
-</div>
+<a href="https://github.com/atpaawej">
+  <img height=180 align="center" src="https://github-readme-streak-stats-eight.vercel.app/api?user=atpaawej&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+</a>
 
 ---
 
