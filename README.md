@@ -1,28 +1,28 @@
-### Hey ðŸ‘‹, I'm Aawej
+### Hey 👋, I'm Aawej
 
 **Engineer. I build whatever excites me. Right now that's agent identity.**
 
 ---
 
-### ðŸš€ What I'm building now
+### 🚀 What I'm building now
 
-**[AgentOnboard](https://ao.aawej.in)** â€” Universal identity layer for AI agents.
+**[AgentOnboard](https://ao.aawej.in)** — Universal identity layer for AI agents.
 One "Login with Google" and your agent can authenticate with any API.
 
 ---
 
-### ðŸ“¦ Projects
+### 📦 Projects
 
 | Project | What it is |
 |---------|-----------|
-| [AgentOnboard](https://ao.aawej.in) | Universal auth for AI agents â€” login with Google |
+| [AgentOnboard](https://ao.aawej.in) | Universal auth for AI agents — login with Google |
 | [notes-app](https://github.com/atpaawej/notes-app) | Open-source note-taking app with MCP support |
-| [Developer](https://github.com/atpaawej/Developer) | Claude Code clone â€” practice project |
+| [Developer](https://github.com/atpaawej/Developer) | Claude Code clone — practice project |
 | [skills](https://github.com/atpaawej/skills) | Open-source agent skills I built for myself |
 
 ---
 
-### ðŸ“Š
+### 📊
 
 <div align="center">
   <picture>
@@ -37,9 +37,9 @@ One "Login with Google" and your agent can authenticate with any API.
 
 ---
 
-### ðŸŒ
+### 🌐
 
-[Website](https://aawej.in) Â· [X / Twitter](https://x.com/AawejPathan786) Â· [Email](mailto:atpaawej@gmail.com)
+[Website](https://aawej.in) · [X / Twitter](https://x.com/AawejPathan786) · [Email](mailto:atpaawej@gmail.com)
 
 ---
 
