@@ -22,10 +22,6 @@ One "Login with Google" and your agent can authenticate with any API.
 
 ---
 
-<img src="https://ghchart.rshah.org/atpaawej" alt="GitHub Contribution Graph" />
-
----
-
 ### 🌐
 
 [Website](https://aawej.in) · [X / Twitter](https://x.com/AawejPathan786) · [Email](mailto:atpaawej@gmail.com)
