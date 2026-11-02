@@ -6,8 +6,7 @@
 
 ### 🚀 What I'm building now
 
-*[AgentOnboard](https://ao.aawej.in)** — Universal identity layer for AI agents.
-One "Login with Google" and your agent can authenticate with any API.
+*[AgentOnboard](https://ao.aawej.in)** — Identity and Sign in for AI Agents 
 
 ---
 
@@ -16,6 +15,7 @@ One "Login with Google" and your agent can authenticate with any API.
 | Project | What it is |
 |---------|------------|
 | [AgentOnboard](https://ao.aawej.in) | Universal auth for AI agents — login with Google |
+| [Sift](https://sift.agentonboard.xyz)| web analytics for agentic era |
 | [notes-app](https://github.com/atpaawej/notes-app) | Open-source note-taking app with MCP support |
 | [Developer](https://github.com/atpaawej/Developer) | Claude Code clone — practice project |
 | [skills](https://github.com/atpaawej/skills) | Open-source agent skills I built for myself |
