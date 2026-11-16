@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Aawej
 
-**Engineer. I build whatever excites me. Right now that's agent identity.**
+**Engineer. I build whatever excites me. Right now that's agent identity and sign in.**
 
 ---
 
