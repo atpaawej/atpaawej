@@ -14,7 +14,7 @@
 
 | Project | What it is |
 |---------|------------|
-| [AgentOnboard](https://ao.aawej.in) | Universal auth for AI agents — login with Google |
+| [AgentOnboard](https://agentonboard.xyz) | Universal auth for AI agents — login with Google |
 | [Sift](https://sift.agentonboard.xyz)| web analytics for agentic era |
 | [notes-app](https://github.com/atpaawej/notes-app) | Open-source note-taking app with MCP support |
 | [Developer](https://github.com/atpaawej/Developer) | Claude Code clone — practice project |
